@@ -1,2 +1,2 @@
 # VaimoTest
-Test page for Trainee position at Vaimo LLC
+I was creating a test "Aurora" page for a Trainee position at Vaimo.
